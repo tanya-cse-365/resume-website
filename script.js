@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 $(document).ready(function(){
     $(".container").animate({
         fontSize: "18px",
@@ -6,12 +5,3 @@ $(document).ready(function(){
         BackgroundColor: "#0037ffff",
         opacity: 1}, 600);
 });
-=======
-$(document).ready(function(){
-    $(".container").animate({
-        fontSize: "18px",
-        fontWeight: "bold",
-        BackgroundColor: "#0037ffff",
-        opacity: 1}, 600);
-});
->>>>>>> 9d19e94be71db58075429ee3f276d25999275633
